@@ -5,6 +5,6 @@
 ## Списки
 
 ## Работа изображениями
-propishi chto nibud
+propishi chto nibud eche raz
 ![image](git2.png)
 ## Работа с ветками
